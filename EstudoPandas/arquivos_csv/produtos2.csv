@@ -1,0 +1,8 @@
+Produto,Preço,Quantidade,Categoria,Fornecedor,Valor Total,Produto Popular
+Celular,1500,10,Eletrônicos,Fornecedor A,15000,False
+Notebook,3000,5,Eletrônicos,Fornecedor Indefinido,15000,False
+Tablet,1200,8,Eletrônicos,Fornecedor Indefinido,9600,False
+Monitor,800,12,Periféricos,Fornecedor D,9600,False
+Teclado,200,15,Periféricos,Fornecedor E,3000,False
+Cabo,50,30,Acessórios,Fornecedor F,1500,True
+Mouse,100,50,Acessórios,Fornecedor G,5000,True

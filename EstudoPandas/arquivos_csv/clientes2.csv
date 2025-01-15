@@ -1,0 +1,6 @@
+,Cliente,Compras,Valor Total,Frequência,Última Compra,Desconto de 10%,Compras recentes
+0,Carlos,3,500,Baixa,2025-01-05,450.0,True
+1,Maria,7,1200,Alta,2025-01-01,1080.0,False
+2,João,2,300,Baixa,2025-01-10,270.0,True
+3,Ana,5,800,Média,2025-01-03,720.0,False
+4,Pedro,4,600,Média,2025-01-02,540.0,False

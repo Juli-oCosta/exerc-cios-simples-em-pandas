@@ -1,0 +1,9 @@
+Produto,Categoria,Preço Unitário,Quantidade,Fornecedor,Data Última Compra,Valor Estoque,Status Estoque
+Celular,Eletrônicos,1500.0,10.0,A,2025-01-01,15000.0,Estoque Médio
+Notebook,Eletrônicos,3000.0,5.0,B,2024-12-20,15000.0,Estoque Baixo
+Tablet,Eletrônicos,1200.0,0.0,C,,0.0,Estoque Baixo
+Monitor,Periféricos,978.5714285714286,12.0,Desconhecido,2025-01-10,11742.857142857143,Estoque Médio
+Teclado,Periféricos,200.0,15.0,E,2024-11-30,3000.0,Estoque Médio
+Cabo HDMI,Acessórios,50.0,30.0,F,2024-10-15,1500.0,Estoque Alto
+Mouse,Acessórios,100.0,50.0,G,,5000.0,Estoque Alto
+Impressora,Periféricos,800.0,0.0,H,2024-12-01,0.0,Estoque Baixo
