@@ -65,7 +65,7 @@ def classificar_estoque(quantidade):
         return 'Estoque Alto'
     
 df['Status Estoque'] = df['Quantidade'].apply(classificar_estoque)
-print("\nAdiciona colina com status de estoque.")
+print("\nAdiciona coluna com status de estoque.")
 print(df)
 
 # 9. Classifique os produtos em ordem decrescente de "Valor Estoque".
